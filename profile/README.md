@@ -14,7 +14,7 @@ We write low-level code. It gives us the most control. It gives us the most perf
 
 ## **When?**
 
-In 3 more months... Perpetually. Quality takes time. But in reality, a prototype for our first release will be distributed in **August of 2023**.
+In 3 more months... Perpetually. Quality takes time.
 
 ## **Where?**
 
